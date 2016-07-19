@@ -1,0 +1,39 @@
+[x] Supported
+
+Rodinia 3.0
+[x] backprop
+[x] bfs
+[x] b+tree
+[x] cfd: 10 iterations
+    dwt2d: cannot compile with nvcc 4.0
+[x] gaussian
+[x] heartwall: 1 frame
+[x] hotspot
+    hybridsort: cannot compile with nvcc 4.0
+[x] kmeans
+[x] lavaMD: 4 boxes
+[x] leukocyte: 1 frame
+[x] lud
+    mummergpu: __cudaRegisterTexture() not implemented in GPGPU-Sim 3.2.2
+[x] myocyte
+[x] nn
+[x] nw
+[x] particlefilter
+[x] pathfinder
+[x] srad1: 10 iterations
+[x] srad2
+    streamcluster: cannot compile with nvcc 4.0
+Parboil 2.5
+[x] cutcp
+[x] histo
+[x] mri-gridding: 1% samples
+[x] mri-q
+[x] sad
+[x] sgemm
+[x] spmv
+[x] stencil
+[x] tpacf
+CUDA SDK 7.0
+[x] matrixMul: 64x64 x 128x64 (wxh)
+[x] vectorAdd
+
